@@ -21,8 +21,8 @@ This project is a comprehensive web-based Vaccination Management System designed
 - Manage hospital registrations and data.
 
 ## Technologies Used
-- **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery
-- **Backend:** PHP, MySQL (or specify if using another technology)
+- **Frontend:** HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax
+- **Backend:** PHP, MySQL
 - **Frameworks:** None (built from scratch)
 
 ## Installation
